@@ -1,4 +1,4 @@
-# 🗂 Tech Layoffs — SQL Data Analysis
+#  Tech Layoffs — SQL Data Analysis
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
