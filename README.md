@@ -16,7 +16,7 @@ A two-phase SQL project that cleans a real-world tech layoffs dataset and perfor
 
 ---
 
-## 🧹 Phase 1 — Data cleaning
+##  Phase 1 — Data cleaning
 
 Transforms the raw `layoffs` table into a clean, analysis-ready `layoffs_staging2` table.
 
@@ -31,7 +31,7 @@ Transforms the raw `layoffs` table into a clean, analysis-ready `layoffs_staging
 
 ---
 
-## 📊 Phase 2 — Exploratory data analysis
+##  Phase 2 — Exploratory data analysis
 
 ### Key analyses
 
